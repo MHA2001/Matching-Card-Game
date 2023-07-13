@@ -3,6 +3,8 @@
     padding: 0;
 }
 body{
+    font-family: 'Chicle', cursive;
+    text-align: center;
     height: 100%;
     width: 100%;
     justify-content: center;
@@ -36,6 +38,7 @@ h1{
     gap: 3rem;
     padding: 10rem;
     padding-top: 10px;
+    padding-bottom: 5rem;
 }
 
 .card{
@@ -60,4 +63,9 @@ h1{
 
 .front-of-card-of{
     display: none;
+}
+
+h2{
+    color: #70CDE0;
+    font-size: 2rem;
 }
